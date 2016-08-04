@@ -1,0 +1,1295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getR",
+				"getRewardTypeInfo"
+			],
+			[
+				"Mon",
+				"MonadError"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"getC",
+				"getCurrentTime"
+			],
+			[
+				"qual",
+				"qualified"
+			],
+			[
+				"resp",
+				"respUserId"
+			],
+			[
+				"qua",
+				"qualified"
+			],
+			[
+				"fr",
+				"fromErrorCode"
+			],
+			[
+				"Send",
+				"SendResponse"
+			],
+			[
+				"Re",
+				"README"
+			],
+			[
+				"Fran",
+				"Franchise"
+			],
+			[
+				"Loy",
+				"LoyalitySocial"
+			],
+			[
+				"mi",
+				"migrateAll"
+			],
+			[
+				"wh",
+				"when"
+			],
+			[
+				"toLoyali",
+				"toLoyalitySocialImpl"
+			],
+			[
+				"Loya",
+				"LoyalitySettings"
+			],
+			[
+				"gua",
+				"guardAuthToken"
+			],
+			[
+				"toLoy",
+				"toLoyalitySocialImpl"
+			],
+			[
+				"from",
+				"fromLoyalitySettingsImpl"
+			],
+			[
+				"Onl",
+				"OnlyField"
+			],
+			[
+				"comm",
+				"commit"
+			],
+			[
+				"WorkoutType",
+				"WorkoutTypeId"
+			],
+			[
+				"lift",
+				"liftAuthAction"
+			],
+			[
+				"stre",
+				"passwordsStrength"
+			],
+			[
+				"with",
+				"withFilter"
+			],
+			[
+				"limi",
+				"limitVal"
+			],
+			[
+				"Overl",
+				"OverloadedLists"
+			],
+			[
+				"Reward",
+				"RewardTypeId"
+			],
+			[
+				"Wit",
+				"WithField"
+			],
+			[
+				"RewardTyp",
+				"RewardTypeId"
+			],
+			[
+				"Tei",
+				"TimeOfDay"
+			],
+			[
+				"Week",
+				"WeekInterval"
+			],
+			[
+				"delete",
+				"deleteCascade"
+			],
+			[
+				"Weeki",
+				"WeekIntervalImpl"
+			],
+			[
+				"WeekIn",
+				"WeekIntervalImplId"
+			],
+			[
+				"Time",
+				"TimeOfDay"
+			],
+			[
+				"Test",
+				"TestObj1"
+			],
+			[
+				"Ov",
+				"OverloadedLists"
+			],
+			[
+				"Te",
+				"TestObj"
+			],
+			[
+				"OV",
+				"OverloadedStrings"
+			],
+			[
+				"Caba",
+				"CabalHUnit"
+			],
+			[
+				"Swagg",
+				"SwaggerObject"
+			],
+			[
+				"Perms",
+				"PermsAllContain"
+			],
+			[
+				"CustomerI",
+				"CustomerImpl"
+			],
+			[
+				"get",
+				"getCustomer"
+			],
+			[
+				"CustomerImpl",
+				"CustomerImplFranchise"
+			],
+			[
+				"run",
+				"runDB404"
+			],
+			[
+				"custo",
+				"customer"
+			],
+			[
+				"customer",
+				"customerConfirm"
+			],
+			[
+				"gene",
+				"generateSmsCode"
+			],
+			[
+				"customerImplS",
+				"customerImplSmsCode"
+			],
+			[
+				"WOrkoutCustomer",
+				"WorkoutCustomerCustomer"
+			],
+			[
+				"workoutImplS",
+				"workoutImplSeatsCount"
+			],
+			[
+				"Assign",
+				"AssignResult"
+			],
+			[
+				"WorkoutImpl",
+				"WorkoutImplDatetime"
+			],
+			[
+				"WorkoutCustomer",
+				"WorkoutCustomerWorkout"
+			],
+			[
+				"mc",
+				"mcanceled"
+			],
+			[
+				"Wo",
+				"WorkoutInfo"
+			],
+			[
+				"Coach",
+				"CoachId"
+			],
+			[
+				"pars",
+				"parseJSON"
+			],
+			[
+				"reqard",
+				"rewardRequestImplCharged"
+			],
+			[
+				"RewardRe",
+				"RewardRequestId"
+			],
+			[
+				"Sc",
+				"Success"
+			],
+			[
+				"No",
+				"NotEnoughScore"
+			],
+			[
+				"is",
+				"isCharged"
+			],
+			[
+				"guar",
+				"guardRewardFree"
+			],
+			[
+				"RewardReque",
+				"RewardRequestStatus"
+			],
+			[
+				"runDB",
+				"runDB404"
+			],
+			[
+				"RewardR",
+				"RewardRequestId"
+			],
+			[
+				"RewardRequestImpl",
+				"rewardRequestImplStatus"
+			],
+			[
+				"Pat",
+				"PatchRewardRequest"
+			],
+			[
+				"to",
+				"toRewardRequestImpl"
+			],
+			[
+				"insertRew",
+				"insertRewardRequest"
+			],
+			[
+				"toR",
+				"toRewardRequestImpl"
+			],
+			[
+				"Aut",
+				"AuthUserId"
+			],
+			[
+				"newsImplM",
+				"newsImplMediaUrl"
+			],
+			[
+				"INLI",
+				"INLINE"
+			],
+			[
+				"Socia",
+				"SocialUrlImpl"
+			],
+			[
+				"clubImplScheduleHo",
+				"clubImplScheduleHolidaysEnd"
+			],
+			[
+				"clubImplSc",
+				"clubImplScheduleHolidaysBegin"
+			],
+			[
+				"clubImplS",
+				"clubImplScheduleWeekdaysBegin"
+			],
+			[
+				"Soc",
+				"SocialUrlImpl"
+			],
+			[
+				"clubI",
+				"clubImplImageUrls"
+			],
+			[
+				"clubImp",
+				"clubImplAddress"
+			],
+			[
+				"clubImpl",
+				"clubImplDescr"
+			],
+			[
+				"SocialUrl",
+				"socialUrlName"
+			],
+			[
+				"Soci",
+				"SocialUrlImplClub"
+			],
+			[
+				"S",
+				"SqlPersistT"
+			],
+			[
+				"So",
+				"SocialUrlImpl"
+			],
+			[
+				"Tim",
+				"TimeOfDay"
+			],
+			[
+				"Fr",
+				"FranchiseClubAPI"
+			],
+			[
+				"Fra",
+				"FranchiseId"
+			],
+			[
+				"fra",
+				"franchiseImplDescr"
+			],
+			[
+				"franchi",
+				"franchiseImplDescr"
+			],
+			[
+				"frach",
+				"franchiseImplName"
+			],
+			[
+				"Fracn",
+				"Franchise"
+			],
+			[
+				"Frac",
+				"Franchise"
+			],
+			[
+				"frachise",
+				"franchisePut"
+			],
+			[
+				"fold",
+				"foldlM"
+			],
+			[
+				"auth-",
+				"auth-update"
+			],
+			[
+				"Gene",
+				"GeneralizedNewtypeDeriving"
+			],
+			[
+				"Per",
+				"PermsList"
+			],
+			[
+				"unl",
+				"unliftPerms"
+			],
+			[
+				"AuthG",
+				"AuthUserGroupId"
+			],
+			[
+				"AuthU",
+				"AuthUserGroupId"
+			],
+			[
+				"UserGro",
+				"UserGroupId"
+			],
+			[
+				"sele",
+				"selectList"
+			],
+			[
+				"de",
+				"deleteUserGroup"
+			],
+			[
+				"UserGr",
+				"UserGroupId"
+			],
+			[
+				"userGroupP",
+				"userGroupPermissions"
+			],
+			[
+				"AuthUs",
+				"AuthUserGroup"
+			],
+			[
+				"Auth",
+				"AuthUserGroup"
+			],
+			[
+				"AuthUse",
+				"AuthUserGroupPerms"
+			],
+			[
+				"Token",
+				"TokenHeader"
+			],
+			[
+				"PatchU",
+				"PatchUserGroup"
+			],
+			[
+				"Toke",
+				"TokenHeader"
+			],
+			[
+				"sw",
+				"switchPromptlyDyn"
+			],
+			[
+				"inval",
+				"invalidEvent"
+			],
+			[
+				"delaye",
+				"delayedTouch"
+			],
+			[
+				"wid",
+				"widgetHold"
+			],
+			[
+				"authT",
+				"authTouchWidget"
+			],
+			[
+				"next",
+				"nextEv"
+			],
+			[
+				"inv",
+				"invalidEvent"
+			],
+			[
+				"req",
+				"reqEv"
+			],
+			[
+				"ac",
+				"acceptEv"
+			],
+			[
+				"MOd",
+				"ModalId"
+			],
+			[
+				"Moda",
+				"ModalId"
+			],
+			[
+				"mai",
+				"mainWidget"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".travis.yml",
+			"settings":
+			{
+				"buffer_size": 3054,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1047,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "smsc.test.json",
+			"settings":
+			{
+				"buffer_size": 83,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Servant/API/SMSC/RU/API.hs",
+			"settings":
+			{
+				"buffer_size": 4328,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Servant/API/SMSC/RU.hs",
+			"settings":
+			{
+				"buffer_size": 6106,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/Main.hs",
+			"settings":
+			{
+				"buffer_size": 1822,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 52.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"gi tpus",
+				"Git: Push"
+			],
+			[
+				"git puhs",
+				"Git: Push Current Branch"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"git ccom",
+				"Git: Custom Command"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"has",
+				"Set Syntax: Haskell"
+			],
+			[
+				"check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"gic com",
+				"Git: Custom Command"
+			],
+			[
+				"git ocm",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Amend Commit"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git re",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git res",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git unst",
+				"Git: Reset (unstage) Current File"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ncrashed/dev/servant-smsc-ru",
+		"/home/ncrashed/dev/servant-smsc-ru/src",
+		"/home/ncrashed/dev/servant-smsc-ru/src/Servant",
+		"/home/ncrashed/dev/servant-smsc-ru/src/Servant/API",
+		"/home/ncrashed/dev/servant-smsc-ru/src/Servant/API/SMSC",
+		"/home/ncrashed/dev/servant-smsc-ru/src/Servant/API/SMSC/RU",
+		"/home/ncrashed/dev/servant-smsc-ru/test"
+	],
+	"file_history":
+	[
+		"/home/ncrashed/dev/fitclubs-backend/backend/Error.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-smsc-ru/src/Servant/API/SMSC/RU.hs",
+		"/home/ncrashed/dev/fitclubs-backend/app/Main.hs",
+		"/home/ncrashed/dev/fitclubs-backend/fitclubs-backend.cabal",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Monad.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Models.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Config.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Customer/Impl.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Customer/Model.hs",
+		"/home/ncrashed/dev/fitclubs-backend/.gitlab-ci.yml",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/Reward.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Reward/Impl.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-smsc-ru/servant-smsc-ru.cabal",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/Loyality.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-smsc-ru/smsc.test.json",
+		"/home/ncrashed/dev/fitclubs-backend/servant-smsc-ru/.gitignore",
+		"/home/ncrashed/dev/fitclubs-backend/servant-smsc-ru/test/Main.hs",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/Workout.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Workout/Impl.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-smsc-ru/src/Servant/API/SMSC/RU/API.hs",
+		"/home/ncrashed/dev/fitclubs-backend/fitclubs-backend.sublime-project",
+		"/home/ncrashed/dev/fitclubs-backend/stack.yaml",
+		"/home/ncrashed/dev/fitclubs-backend/servant-smsc-ru/README.md",
+		"/home/ncrashed/dev/fitclubs-backend/servant-smsc-ru/CHANGELOG.md",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Reward/Model.hs",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/Customer.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Loyality/Impl.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Loyality/Model.hs",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/News.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/News/Impl.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Franchise/Impl.hs",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/Club.hs",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/Coach.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Coach/Impl.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Club/Impl.hs",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/Franchise.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-smsc-ru/LICENSE",
+		"/home/ncrashed/dev/fitclubs-backend/common/Schema.hs",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/Pagination.hs",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/Service.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Utils.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Service/Impl.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Workout/Model.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Workout/Query.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Reward/Query.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/News/Model.hs",
+		"/home/ncrashed/dev/servant-auth-token/src/Servant/Server/Auth/Token.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token/src/Servant/Server/Auth/Token/Monad.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token/src/Servant/Server/Auth/Token.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token/src/Servant/Server/Auth/Token/Model.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token/servant-auth-token.cabal",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Club/Model.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Coach/Model.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Franchise/Model.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Service/Model.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Pagination/Impl.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token-api/src/Servant/API/Auth/Token.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token/src/Servant/Server/Auth/Token/Pagination.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token/src/Servant/Server/Auth/Token/Error.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token-api/servant-auth-token-api.cabal",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token/src/Servant/Server/Auth/Token/Config.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token/src/Servant/Server/Auth/Token/Restore.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token/src/Servant/Server/Auth/Token/Patch.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token/src/Servant/Server/Auth/Token/Common.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token-api/src/Servant/API/Auth/Token/Pagination.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/News/ModelTH.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Reward/ModelTH.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Patch.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Auth/Restore.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token/.travis.yml",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token-api/src/Servant/API/Auth/Token/Internal/DeriveJson.hs",
+		"/home/ncrashed/dev/fitclubs-backend/servant-auth-token-api/src/Servant/API/Auth/Token/Internal/Schema.hs",
+		"/home/ncrashed/dev/stackage/build-constraints.yaml",
+		"/home/ncrashed/dev/fitclubs-backend/aeson-injector/src/Data/Aeson/WithField.hs",
+		"/home/ncrashed/dev/fitclubs-backend/aeson-injector/test/Main.hs",
+		"/home/ncrashed/dev/fitclubs-backend/aeson-injector/aeson-injector.cabal",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/all.js",
+		"/home/ncrashed/dev/fitclubs-backend/assets/index.html",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/all.min.js",
+		"/home/ncrashed/dev/fitclubs-backend/aeson-injector/LICENSE",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Auth/Impl.hs",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/Auth.hs",
+		"/home/ncrashed/dev/fitclubs-backend/common/Data/Aeson/WithField.hs",
+		"/home/ncrashed/Documents/test.json",
+		"/home/ncrashed/dev/fitclubs-backend/common/WithKey.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Auth/Model.hs",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/Reward/Request.hs",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/fitclubs-frontend.cabal",
+		"/home/ncrashed/dev/fitclubs-backend/assets/all.js",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/src/Auth/Client.hs",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/src/Auth.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Database/Relations.hs",
+		"/home/ncrashed/dev/fitclubs-backend/backend/Api/Auth/Config.hs",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/src/Lib.hs",
+		"/home/ncrashed/dev/one-filers/Main.hs",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/src/Bootstrap/Modal.hs",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/stack.yml",
+		"/home/ncrashed/dev/fitclubs-backend/README.md",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/compile.sh",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/frontend-hs.cabal",
+		"/home/ncrashed/dev/fitclubs-backend/.gitignore",
+		"/home/ncrashed/dev/fitclubs-backend/frontend-hs/src/Lib.hs",
+		"/home/ncrashed/dev/fitclubs-backend/frontend-hs/stack.yml",
+		"/home/ncrashed/dev/fitclubs-backend/frontend-hs/ghcjs-servant-client/src/Servant/Common/Req.hs",
+		"/home/ncrashed/dev/fitclubs-backend/frontend-hs/ghcjs-servant-client/ghcjs-servant-client.cabal",
+		"/home/ncrashed/dev/fitclubs-backend/frontend-hs/compile.sh",
+		"/home/ncrashed/dev/fitclubs-backend/frontend-hs/frontend-hs.cabal",
+		"/home/ncrashed/dev/fitclubs-backend/frontend-hs/ghcjs-servant-client/src/Servant/Client.hs",
+		"/home/ncrashed/dev/fitclubs-backend/common/Api/Patch.hs",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/src/index.js",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/package.json",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/src/index.html",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/.babelrc",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/package__.json",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/.gitignore",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/src/Main.elm",
+		"/home/ncrashed/dev/fitclubs-backend/frontend/src/Auth.elm",
+		"/home/ncrashed/dev/fitclubs-backend/src/Api/Auth.hs",
+		"/home/ncrashed/dev/fitclubs-backend/src/Api/Auth/Common.hs",
+		"/home/ncrashed/dev/fitclubs-backend/src/Api/Auth/Restore.hs",
+		"/home/ncrashed/dev/fitclubs-backend/templates/email.mustache",
+		"/home/ncrashed/dev/fitclubs-backend/src/Api/Patch.hs",
+		"/home/ncrashed/dev/fitclubs-backend/src/Api/Pagination.hs",
+		"/home/ncrashed/dev/fitclubs-backend/assets/swagger-ui/index.html",
+		"/home/ncrashed/dev/fitclubs-backend/assets/api/swagger.json",
+		"/home/ncrashed/dev/fitclubs-backend/src/Models.hs",
+		"/home/ncrashed/dev/fitclubs-backend/Dockerfile"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			"/home/ncrashed/dev/fitclubs-backend",
+			"/home/ncrashed/dev/fitclubs-backend/common/Api",
+			"/home/ncrashed/dev/fitclubs-backend/backend"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"@",
+			"RewardType",
+			"toCustomerImpl",
+			"customerImplSmsCode",
+			"smscPassword",
+			"SmscConfig",
+			"customerImplPhone",
+			"respUserId",
+			"409",
+			"read",
+			"rewardReqPost",
+			"liftIO $",
+			"simpleSmsSend",
+			"SmscConfig",
+			"clubs",
+			"coachs",
+			"Author name",
+			"Author name here",
+			"Word",
+			"cost",
+			"Word",
+			"cost ",
+			"cost",
+			"Cost",
+			"rewardTypeImplCost",
+			"customers",
+			"customerInfo",
+			"CustomerInfo",
+			"Customer",
+			"customer",
+			"getCustomer'",
+			"Workout",
+			"reward",
+			"Service",
+			"Workout",
+			"Service",
+			"loyalityToScore",
+			"LoyalityAPI",
+			"LoyalityLevel",
+			"loyality",
+			"LoyalitySettings",
+			"PatchReward",
+			"mstatus mpaid mgym",
+			"mcoach",
+			"mbegin mend",
+			"mtype",
+			"workouts",
+			"Type",
+			"Club",
+			"Type",
+			"orkout",
+			"Info",
+			"Type",
+			"WorkoutAPI",
+			"WorkoutId",
+			"PatchWorkout",
+			"PublicationDate",
+			"getCoach",
+			"AuthMonad",
+			"runAuthHandler",
+			"AuthMonad",
+			"authUserByToken",
+			"downgradeToken",
+			"authUserByToken",
+			"ensureAdmin",
+			"guardAuthToken",
+			"AuthUserId",
+			"Auth",
+			"App",
+			"Word",
+			"setUserPassword",
+			"setUserPermissions",
+			"App",
+			"User",
+			"MonadError ServantErr m =>",
+			"<$>",
+			"Throw",
+			"App",
+			"AuthHandler",
+			"$",
+			"makeBody",
+			"Text",
+			"Config",
+			"App",
+			"m a",
+			"m",
+			"MonadError ServantErr m =>",
+			"m",
+			"API",
+			"ThumbnailUrl",
+			"App",
+			"Api.Auth",
+			"RespSignup",
+			"AuthUserId",
+			"RespSignup",
+			"Request",
+			"Franchise",
+			"RewardRequestId",
+			"request",
+			"PatchReward",
+			"WeekInterval",
+			"ClubSchedule",
+			"SocialUrl",
+			"socialUrl",
+			"Additional",
+			"Franchise",
+			"franchise",
+			"Franchise",
+			"franchise",
+			"Franchise",
+			"workoutInfoCoaches",
+			"workoutCoaches",
+			"Franchise",
+			"franchise",
+			"Franchise",
+			"FranchiseId",
+			"Franchise",
+			"withKeyTests",
+			"key",
+			"\"id\"",
+			"tests",
+			"Score",
+			"Type",
+			"value",
+			"toJSON a",
+			"toJSON b",
+			"WithField",
+			"import Data.Aeson.WithKey"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"import Data.Aeson.WithField",
+			"WithId",
+			"import Data.Aeson.WithField"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".travis.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3054,
+								3054
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "smsc.test.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/Servant/API/SMSC/RU/API.hs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeHaskell/Syntaxes/Haskell-SublimeHaskell.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/Servant/API/SMSC/RU.hs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/SublimeHaskell/Syntaxes/Haskell-SublimeHaskell.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "test/Main.hs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1541,
+								1541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeHaskell/Syntaxes/Haskell-SublimeHaskell.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1190.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.elm_type":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 229.0
+	},
+	"output.haskell_error_panel":
+	{
+		"height": 242.0
+	},
+	"pinned_build_system": "Stack pedantic",
+	"project": "servant-smsc-ru.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/dev/hsoc/live-profile-monitor/live-profile-monitor.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
