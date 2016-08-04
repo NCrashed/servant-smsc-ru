@@ -59,6 +59,7 @@ module Servant.API.SMSC.RU(
   ) where 
 
 import Control.Monad.Except
+import Data.ByteString.Lazy (ByteString)
 import Data.Monoid 
 import Data.Proxy
 import Data.Text 
@@ -106,6 +107,7 @@ genericSmsSend ::
   -> Maybe Word  -- ^ err
   -> Maybe Word  -- ^ op
   -> Maybe Text -- ^ pp
+  -> ByteString -- ^ Request body (voice messages and etc)
   -> Manager -> BaseUrl -> ClientM SendResponse
 genericSmsSend = client (Proxy :: Proxy SMSCAPI)
 
@@ -182,6 +184,7 @@ simpleSmsSend SmscConfig{..} phone msg = do
     Nothing -- err
     Nothing -- op
     Nothing -- pp
+    mempty
     smscManager smscBaseUrl
   return $ case res of 
     Left e -> Left (T.pack $ show e)
@@ -229,6 +232,7 @@ getSimpleSmsCost SmscConfig{..} phone msg = do
     Nothing -- err
     Nothing -- op
     Nothing -- pp
+    mempty
     smscManager smscBaseUrl
   return $ case res of 
     Left e -> Left (T.pack $ show e)

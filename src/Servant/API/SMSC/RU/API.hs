@@ -25,6 +25,8 @@ import Data.Text
 import GHC.Generics
 import Servant.API 
 
+import Data.ByteString.Lazy (ByteString)
+
 -- | All supported API of smsc.ru service
 type SMSCAPI = SendEndpoint
 
@@ -150,4 +152,5 @@ type SendEndpoint = "sys" :> "send.php"
   :> QueryParam "err" Word 
   :> QueryParam "op" Word 
   :> QueryParam "pp" Text
+  :> ReqBody '[OctetStream] ByteString
   :> Post '[JSON] SendResponse
